@@ -49,13 +49,13 @@ def insertNodeafterGivenNode(data, node):
 
 # -------------------------
 # TEST DATA
-insertNodeAtTheBeggining("LET ME THE ONE")
-insertNodeAtTheBeggining("ALL or NOTHING")
-insertNodeAtTheBeggining("magaan naba ang iyong pag hinga")
-insertNodeAtTheBeggining("PUSONG KIGAW")
+insertNodeAtTheBeggining("KALAPASTANGAN")
+insertNodeAtTheBeggining("HEAVEN KNOWS")
+insertNodeAtTheBeggining("TADHANA")
+insertNodeAtTheBeggining("SAKSI ANG LANGIT")
 
 insertNodeAtTheEnd("Araw Gabi by Soul Jazz Cover")
-insertNodeAtTheEnd("B4 I LET YOU GO")
+insertNodeAtTheEnd("Isa Lang by Arthur Nery")
 
 insertNodeafterGivenNode("Sining","Empilight")
 
